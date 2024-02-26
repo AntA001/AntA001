@@ -31,7 +31,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 </div>
 
-<h2>👨‍💻 Deployed comercial projects</h2>
+<h2>👨‍💻 Projects</h2>
 <div align="center">
     <code><a href="https://www.ema-app.com/" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/EMA Simple Logo Transparent.png" alt="potizo" width="70"/></a></code>&nbsp;&nbsp;&nbsp;
     <code><a href="https://potizo.thessaloniki.gr/" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/potizo_logo.3ddcc65a62fd53c8aa584ab93707f771.png" alt="ema" width="70"/></a></code>&nbsp;&nbsp;&nbsp;
