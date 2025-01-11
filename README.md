@@ -1,5 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/antonisantoniadis-709a88208/">Antonis!</a></h2>
-<p>I'm an Entrepreneurial Software Engineer with a robust background in game and web/mobile app development. Known for meticulous attention to detail and adaptability, with two successful startups under my belt. Armed with a BS in Computer Science and an MS in Computer Games Development, I'm eager to tackle new challenges and contribute to innovative solutions.</p>
+<p> Dynamic Senior Head of Engineering with expertise in full-stack development, project 
+management, and scaling tech solutions. Skilled in React, Next.js, Node.js, and AWS, 
+delivering impactful software and leading teams to excellence.</p>
 
 <h2>🚀 Some Tools I Use</h2>
 <div align="center">
