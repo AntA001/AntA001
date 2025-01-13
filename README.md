@@ -35,12 +35,12 @@ delivering impactful software and leading teams to excellence.</p>
 
 <h2>👨‍💻 Projects</h2>
 <div align="center">
+    <code><a href="https://www.hubfinance.com/" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/hub-hashtag.png" alt="Hubfinance" width="70"/></a></code>&nbsp;&nbsp;&nbsp;
+    <code><a href="https://www.humakina.com/" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/humakina-logo.png" alt="Humakina" width="70"/></a></code>
     <code><a href="https://www.ema-app.com/" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/EMA Simple Logo Transparent.png" alt="potizo" width="70"/></a></code>&nbsp;&nbsp;&nbsp;
     <code><a href="https://potizo.thessaloniki.gr/" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/potizo_logo.3ddcc65a62fd53c8aa584ab93707f771.png" alt="ema" width="70"/></a></code>&nbsp;&nbsp;&nbsp;
     <code><a href="https://vaia.kissmybutton.gr/" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/Vlogo.svg" alt="vaia" width="70"/></a></code>&nbsp;&nbsp;&nbsp;
     <code><a href="https://www.bluetree.events/" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/favicon.png" alt="bluetree" width="70"/></a></code>&nbsp;&nbsp;&nbsp;
     <code><a href="https://drive.google.com/file/d/1JgrLtWo3C7Lvn4A6juyFfGzKlqNiHBC0/view?usp=sharing" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/Logo-removebg-preview.png" alt="timesup" width="70"/></a></code>&nbsp;&nbsp;&nbsp;
-    <code><a href="https://www.hubfinance.com/" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/hub-hashtag.png" alt="Hubfinance" width="70"/></a></code>&nbsp;&nbsp;&nbsp;
-    <code><a href="https://www.humakina.com/" style="text-decoration:none"><img src="https://github.com/AntA001/AntA001/blob/main/humakina-logo.png" alt="Humakina" width="70"/></a></code>
 </div>
 
