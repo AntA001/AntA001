@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/antonisantoniadis-709a88208/">Antonis!</a></h2>
-<p> Dynamic Senior Head of Engineering with expertise in full-stack development, project 
-management, and scaling tech solutions. Skilled in React, Next.js, Node.js, and AWS, 
-delivering impactful software and leading teams to excellence.</p>
+<p>  Multidisciplinary Technology Executive, leading end-to-end delivery across web, mobile, IoT, cloud, 
+and AI. Proven expertise in building scalable platforms, orchestrating complex architectures, and steering 
+teams to transform ideas into high-impact products.</p>
 
 <h2>🚀 Some Tools I Use</h2>
 <div align="center">
