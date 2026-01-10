@@ -3,6 +3,9 @@
 and AI. Proven expertise in building scalable platforms, orchestrating complex architectures, and steering 
 teams to transform ideas into high-impact products.</p>
 
+***! Currently working on projects using Azure Devops since July 2025***
+
+
 <h2>🚀 Some Tools I Use</h2>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
